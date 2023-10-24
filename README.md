@@ -20,3 +20,5 @@ Stall and Memory Read Stall Signals: The architecture includes additional signal
 * Tag Memory: Stores tags corresponding to data stored in cache lines.
 * Index Memory: Stores index information for cache lines.
 * Block Offset Memory: Contains block offset details for cache lines.
+### FSM
+![Block Diagram](Picture3.png)
